@@ -29,18 +29,5 @@ Customer Segmentation: Group customers based on shared characteristics and churn
 2. Improve customer satisfaction: Understand customer needs better for better service.
 3. Make data-driven decisions: Use insights to make better choices for keeping customers happy. Customer Risk Analysis
 
+![Customer Risk Analysis](https://github.com/Breakinginfinity/Customer-Churn-Analysis-using-Power-BI/assets/93321953/e66a70fc-e524-4716-91b9-1a34a6f5c2b1)
 
-
-### Beyond the Dashboard: Communication for Impact
-Besides making great dashboards, I also help clients understand the data and make smart decisions with it. By sending clear emails, I:
-
-Shared important findings: Summarized data nicely focusing on what matters.
-Tailored messages: Adjusted my language to match the client's knowledge level.
-Suggested actions: Gave specific advice on what to do next. Email
-Get Started:
-
-Get the project files.
-Open the Customer Churn Dashboard.pbix & Customer Risk Analysis Dashboard.pbix in Power BI Desktop.
-Connect to your data source.
-Start improving customer retention!
-Use data insights and Power BI dashboards to keep customers happy and engaged. Note: This version highlights the project's benefits for businesses and includes a clear call to action.

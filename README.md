@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis-using-Power-BI
++# Customer-Churn-Analysis-using-Power-BI
 ## This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service.
 
 ### Key Features:
@@ -11,16 +11,16 @@ Customer Segmentation: Group customers based on shared characteristics and churn
 
 
 
-![294774329-e91b9651-b26e-4ca0-af99-feb91311f5dd](https://github.com/Breakinginfinity/Customer-Churn-Analysis-using-Power-BI/assets/93321953/1f4e70b5-062e-4a14-9836-0e88ee96e4a1)
+
+https://github.com/Breakinginfinity/Customer-Churn-Analysis-using-Power-BI/assets/93321953/79681b4b-3735-4bd8-977a-b6d9f4dfcf42
+
+
 
 ### Built with:
 1. Power BI Desktop
 2. Excel
 
-### Key Insights:
-
-![download (65)](https://github.com/Breakinginfinity/Customer-Churn-Analysis-using-Power-BI/assets/93321953/b3146f12-7e93-41bd-8a9b-e510c75575ef)
-
+![download (80)](https://github.com/Breakinginfinity/Customer-Churn-Analysis-using-Power-BI/assets/93321953/598e5257-0153-4cd0-9616-b1685c62e7a8)
 
 
 ### Benefits:
@@ -29,5 +29,4 @@ Customer Segmentation: Group customers based on shared characteristics and churn
 2. Improve customer satisfaction: Understand customer needs better for better service.
 3. Make data-driven decisions: Use insights to make better choices for keeping customers happy. Customer Risk Analysis
 
-![Customer Risk Analysis](https://github.com/Breakinginfinity/Customer-Churn-Analysis-using-Power-BI/assets/93321953/e66a70fc-e524-4716-91b9-1a34a6f5c2b1)
 
